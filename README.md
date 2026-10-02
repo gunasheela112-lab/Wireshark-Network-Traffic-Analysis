@@ -75,17 +75,17 @@ Observed result:
 - No Echo Replies were received
 - Ping reported 100% packet loss
 
-## Screenshots
+## Packet Analysis Evidence
 
-The repository will contain screenshots demonstrating each analysis:
+The repository will contain packet-analysis evidence demonstrating each analysis:
 
-| Analysis | Screenshot |
+| Analysis | Evidence |
 |---|---|
-| TCP Three-Way Handshake | [View screenshot](screenshots/tcp-handshake.png) |
-| ARP Request/Reply | [View screenshot](screenshots/arp-analysis.png) |
-| ICMP Connectivity | [View screenshot](screenshots/icmp-analysis.png) |
-| DNS Query/Response | [View screenshot](screenshots/dns-analysis.png) |
-| ICMP Troubleshooting | [View screenshot](screenshots/icmp-troubleshooting.png) |
+| TCP Three-Way Handshake | [View evidence](screenshots/tcp-handshake.png) |
+| ARP Request/Reply | [View evidence](screenshots/arp-analysis.png) |
+| ICMP Connectivity | [View evidence](screenshots/icmp-analysis.png) |
+| DNS Query/Response | [View evidence](screenshots/dns-analysis.png) |
+| ICMP Troubleshooting | [View evidence](screenshots/icmp-troubleshooting.png) |
 
 ## Tools & Skills
 
@@ -101,7 +101,7 @@ The repository will contain screenshots demonstrating each analysis:
 
 ## Project Evidence
 
-The project is based on hands-on packet captures and Wireshark analysis. The public repository contains the documentation and selected screenshots; raw `.pcapng` capture files are kept separately rather than published.
+The project is based on hands-on packet captures and Wireshark analysis. The public repository contains the documentation and selected packet-analysis evidence; raw `.pcapng` capture files are kept separately rather than published.
 
 ## Learning Outcomes
 
