@@ -1,5 +1,9 @@
 # Wireshark Network Traffic Analysis
 
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-blue?logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-informational)
+![Protocols](https://img.shields.io/badge/Protocols-TCP%20%7C%20ARP%20%7C%20ICMP%20%7C%20DNS-success)
+
 A hands-on network traffic analysis project using Wireshark to capture and inspect common TCP/IP protocols and perform controlled connectivity troubleshooting.
 
 ## Overview
