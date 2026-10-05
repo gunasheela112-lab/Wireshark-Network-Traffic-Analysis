@@ -79,15 +79,27 @@ Observed result:
 - No Echo Replies were received
 - Ping reported 100% packet loss
 
-## Packet Analysis Evidence
+## Analysis Evidence
 
-| Analysis | Screenshot |
-|---|---|
-| TCP Three-Way Handshake | [View screenshot](evidence/tcp-three-way-handshake.png) |
-| ARP Request/Reply | [View screenshot](evidence/arp-request-reply.png) |
-| ICMP Successful Ping | [View screenshot](evidence/icmp-successful-ping.png) |
-| DNS Query/Response | [View screenshot](evidence/dns-query-response.png) |
-| ICMP Troubleshooting | [View screenshot](evidence/icmp-troubleshooting.png) |
+### TCP Three-Way Handshake
+
+![TCP Three-Way Handshake](evidence/tcp-three-way-handshake.png)
+
+### ARP Request and Reply
+
+![ARP Request and Reply](evidence/arp-request-reply.png)
+
+### ICMP Successful Ping
+
+![ICMP Successful Ping](evidence/icmp-successful-ping.png)
+
+### DNS Query and Response
+
+![DNS Query and Response](evidence/dns-query-response.png)
+
+### ICMP Troubleshooting
+
+![ICMP Troubleshooting](evidence/icmp-troubleshooting.png)
 
 ## Tools & Skills
 
