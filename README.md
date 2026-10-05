@@ -83,11 +83,11 @@ Observed result:
 
 | Analysis | Screenshot |
 |---|---|
-| TCP Three-Way Handshake | [View screenshot](screenshots/tcp-three-way-handshake.png) |
-| ARP Request/Reply | [View screenshot](screenshots/arp-request-reply.png) |
-| ICMP Successful Ping | [View screenshot](screenshots/icmp-successful-ping.png) |
-| DNS Query/Response | [View screenshot](screenshots/dns-query-response.png) |
-| ICMP Troubleshooting | [View screenshot](screenshots/icmp-troubleshooting.png) |
+| TCP Three-Way Handshake | [View screenshot](evidence/tcp-three-way-handshake.png) |
+| ARP Request/Reply | [View screenshot](evidence/arp-request-reply.png) |
+| ICMP Successful Ping | [View screenshot](evidence/icmp-successful-ping.png) |
+| DNS Query/Response | [View screenshot](evidence/dns-query-response.png) |
+| ICMP Troubleshooting | [View screenshot](evidence/icmp-troubleshooting.png) |
 
 ## Tools & Skills
 
