@@ -32,6 +32,12 @@ Wireshark filter:
 tcp.flags.syn == 1
 ```
 
+**Evidence:**
+
+![TCP Three-Way Handshake](evidence/tcp-three-way-handshake.png)
+
+---
+
 ### 2. ARP Request and Reply
 
 Captured an ARP request and corresponding reply to observe local address resolution.
@@ -49,6 +55,12 @@ Wireshark filter:
 arp
 ```
 
+**Evidence:**
+
+![ARP Request and Reply](evidence/arp-request-reply.png)
+
+---
+
 ### 3. ICMP Connectivity Analysis
 
 Captured ICMP Echo Request and Echo Reply packets during a successful connectivity test.
@@ -58,6 +70,12 @@ Wireshark filter:
 ```
 icmp
 ```
+
+**Evidence:**
+
+![ICMP Successful Ping](evidence/icmp-successful-ping.png)
+
+---
 
 ### 4. DNS Query and Response
 
@@ -69,6 +87,12 @@ Wireshark filter:
 dns
 ```
 
+**Evidence:**
+
+![DNS Query and Response](evidence/dns-query-response.png)
+
+---
+
 ### 5. Controlled ICMP Troubleshooting
 
 Tested connectivity to the documentation-only address `192.0.2.1`. The test produced no Echo Replies, providing packet-level evidence of a connectivity failure.
@@ -79,27 +103,11 @@ Observed result:
 - No Echo Replies were received
 - Ping reported 100% packet loss
 
-## Analysis Evidence
-
-### TCP Three-Way Handshake
-
-![TCP Three-Way Handshake](evidence/tcp-three-way-handshake.png)
-
-### ARP Request and Reply
-
-![ARP Request and Reply](evidence/arp-request-reply.png)
-
-### ICMP Successful Ping
-
-![ICMP Successful Ping](evidence/icmp-successful-ping.png)
-
-### DNS Query and Response
-
-![DNS Query and Response](evidence/dns-query-response.png)
-
-### ICMP Troubleshooting
+**Evidence:**
 
 ![ICMP Troubleshooting](evidence/icmp-troubleshooting.png)
+
+---
 
 ## Tools & Skills
 
